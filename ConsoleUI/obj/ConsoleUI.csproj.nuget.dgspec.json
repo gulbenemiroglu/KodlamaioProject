@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\Kodlamaio\\KodlamaioApp\\ConsoleUI\\ConsoleUI.csproj": {}
+    "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\KodlamaioProject\\ConsoleUI\\ConsoleUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\Kodlamaio\\KodlamaioApp\\Business\\Business.csproj": {
+    "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\KodlamaioProject\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\Kodlamaio\\KodlamaioApp\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\KodlamaioProject\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\Kodlamaio\\KodlamaioApp\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\KodlamaioProject\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\gulbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\Kodlamaio\\KodlamaioApp\\Business\\obj\\",
+        "outputPath": "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\KodlamaioProject\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gulbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\Kodlamaio\\KodlamaioApp\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\Kodlamaio\\KodlamaioApp\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\KodlamaioProject\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\KodlamaioProject\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\Kodlamaio\\KodlamaioApp\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\Kodlamaio\\KodlamaioApp\\Entities\\Entities.csproj"
+              "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\KodlamaioProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\KodlamaioProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\Kodlamaio\\KodlamaioApp\\ConsoleUI\\ConsoleUI.csproj": {
+    "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\KodlamaioProject\\ConsoleUI\\ConsoleUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\Kodlamaio\\KodlamaioApp\\ConsoleUI\\ConsoleUI.csproj",
+        "projectUniqueName": "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\KodlamaioProject\\ConsoleUI\\ConsoleUI.csproj",
         "projectName": "ConsoleUI",
-        "projectPath": "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\Kodlamaio\\KodlamaioApp\\ConsoleUI\\ConsoleUI.csproj",
+        "projectPath": "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\KodlamaioProject\\ConsoleUI\\ConsoleUI.csproj",
         "packagesPath": "C:\\Users\\gulbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\Kodlamaio\\KodlamaioApp\\ConsoleUI\\obj\\",
+        "outputPath": "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\KodlamaioProject\\ConsoleUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gulbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -90,14 +90,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\Kodlamaio\\KodlamaioApp\\Business\\Business.csproj": {
-                "projectPath": "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\Kodlamaio\\KodlamaioApp\\Business\\Business.csproj"
+              "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\KodlamaioProject\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\KodlamaioProject\\Business\\Business.csproj"
               },
-              "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\Kodlamaio\\KodlamaioApp\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\Kodlamaio\\KodlamaioApp\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\KodlamaioProject\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\KodlamaioProject\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\Kodlamaio\\KodlamaioApp\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\Kodlamaio\\KodlamaioApp\\Entities\\Entities.csproj"
+              "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\KodlamaioProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\KodlamaioProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -131,14 +131,14 @@
         }
       }
     },
-    "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\Kodlamaio\\KodlamaioApp\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\KodlamaioProject\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\Kodlamaio\\KodlamaioApp\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\KodlamaioProject\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\Kodlamaio\\KodlamaioApp\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\KodlamaioProject\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\gulbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\Kodlamaio\\KodlamaioApp\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\KodlamaioProject\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gulbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -155,8 +155,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\Kodlamaio\\KodlamaioApp\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\Kodlamaio\\KodlamaioApp\\Entities\\Entities.csproj"
+              "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\KodlamaioProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\KodlamaioProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -170,6 +170,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -190,14 +196,14 @@
         }
       }
     },
-    "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\Kodlamaio\\KodlamaioApp\\Entities\\Entities.csproj": {
+    "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\KodlamaioProject\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\Kodlamaio\\KodlamaioApp\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\KodlamaioProject\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\Kodlamaio\\KodlamaioApp\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\KodlamaioProject\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\gulbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\Kodlamaio\\KodlamaioApp\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\KodlamaioProject\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gulbe\\AppData\\Roaming\\NuGet\\NuGet.Config",

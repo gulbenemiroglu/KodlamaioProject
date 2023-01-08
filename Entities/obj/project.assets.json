@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\Kodlamaio\\KodlamaioApp\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\KodlamaioProject\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\Kodlamaio\\KodlamaioApp\\Entities\\Entities.csproj",
+      "projectPath": "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\KodlamaioProject\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\gulbe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\Kodlamaio\\KodlamaioApp\\Entities\\obj\\",
+      "outputPath": "C:\\Users\\gulbe\\OneDrive\\Masaüstü\\KodlamaioProject\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gulbe\\AppData\\Roaming\\NuGet\\NuGet.Config",

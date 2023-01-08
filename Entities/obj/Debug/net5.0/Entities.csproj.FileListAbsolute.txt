@@ -10,3 +10,15 @@ C:\Users\gulbe\OneDrive\Masaüstü\Kodlamaio\KodlamaioApp\Entities\obj\Debug\net
 C:\Users\gulbe\OneDrive\Masaüstü\Kodlamaio\KodlamaioApp\Entities\obj\Debug\net5.0\refint\Entities.dll
 C:\Users\gulbe\OneDrive\Masaüstü\Kodlamaio\KodlamaioApp\Entities\obj\Debug\net5.0\Entities.pdb
 C:\Users\gulbe\OneDrive\Masaüstü\Kodlamaio\KodlamaioApp\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\gulbe\OneDrive\Masaüstü\KodlamaioProject\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\gulbe\OneDrive\Masaüstü\KodlamaioProject\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\gulbe\OneDrive\Masaüstü\KodlamaioProject\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\gulbe\OneDrive\Masaüstü\KodlamaioProject\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+C:\Users\gulbe\OneDrive\Masaüstü\KodlamaioProject\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gulbe\OneDrive\Masaüstü\KodlamaioProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\gulbe\OneDrive\Masaüstü\KodlamaioProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\gulbe\OneDrive\Masaüstü\KodlamaioProject\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\gulbe\OneDrive\Masaüstü\KodlamaioProject\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\gulbe\OneDrive\Masaüstü\KodlamaioProject\Entities\obj\Debug\net5.0\refint\Entities.dll
+C:\Users\gulbe\OneDrive\Masaüstü\KodlamaioProject\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\gulbe\OneDrive\Masaüstü\KodlamaioProject\Entities\obj\Debug\net5.0\ref\Entities.dll
