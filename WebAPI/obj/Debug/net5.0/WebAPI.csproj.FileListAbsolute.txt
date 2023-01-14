@@ -67,3 +67,8 @@ C:\Users\gulbe\OneDrive\Masaüstü\KodlamaioProject\WebAPI\bin\Debug\net5.0\Busi
 C:\Users\gulbe\OneDrive\Masaüstü\KodlamaioProject\WebAPI\bin\Debug\net5.0\Core.pdb
 C:\Users\gulbe\OneDrive\Masaüstü\KodlamaioProject\WebAPI\bin\Debug\net5.0\DataAccess.pdb
 C:\Users\gulbe\OneDrive\Masaüstü\KodlamaioProject\WebAPI\bin\Debug\net5.0\Entities.pdb
+C:\Users\gulbe\OneDrive\Masaüstü\KodlamaioProject\WebAPI\bin\Debug\net5.0\Autofac.dll
+C:\Users\gulbe\OneDrive\Masaüstü\KodlamaioProject\WebAPI\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\gulbe\OneDrive\Masaüstü\KodlamaioProject\WebAPI\bin\Debug\net5.0\Autofac.Extras.DynamicProxy.dll
+C:\Users\gulbe\OneDrive\Masaüstü\KodlamaioProject\WebAPI\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\gulbe\OneDrive\Masaüstü\KodlamaioProject\WebAPI\bin\Debug\net5.0\FluentValidation.dll
